@@ -1,0 +1,29 @@
+.centriranjeTeksta
+{
+    text-align:center;
+}
+.centriranjeSlike
+{
+    Display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+}
+.plavaBoja
+{
+    color:royalblue;
+}
+.imePrezime
+{
+    text-decoration:line-through;
+    text-align:center;
+}
+.velicinaIkonica
+{
+    width:30px;
+}
+.zaobljenaSlika
+{
+    border-radius:30px;
+    width:350px;
+}
